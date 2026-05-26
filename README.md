@@ -1,13 +1,13 @@
 # CREDIT-RISK-ANALYTICS
 ## Credit Risk Analytics Dashboard
 
-Welcome to ** Credit Risk Analytics Dashboard** - an end-to-end Power BI project designed to analyze loan performance, credit risk behaviour, recovery trends, and borrower profiles using interactive visualizations and KPI tracking.
+Welcome to **Credit Risk Analytics Dashboard** - an end-to-end Power BI project designed to analyze loan performance, credit risk behaviour, recovery trends, and borrower profiles using interactive visualizations.
 
 This dashboard helps financial institutions monitor loan applications, identify non-performing loans, evaluate recovery performance, and make data-driven lending decisions.
 
 ---
 
-# Project Overview
+## Project Overview
 
 ### Domain
 Banking & Financial Services
@@ -25,7 +25,7 @@ The objective of this project is to create a centralized and interactive dashboa
 
 ---
 
-# Solution
+## Solution
 
 Developed a multi-page **Power BI Credit Risk Analytics Dashboard** that provides insights into:
 
@@ -38,7 +38,7 @@ Developed a multi-page **Power BI Credit Risk Analytics Dashboard** that provide
 
 ---
 
-# Objective
+## Objective
 
 To build an interactive dashboard that helps stakeholders:
 
@@ -50,7 +50,7 @@ To build an interactive dashboard that helps stakeholders:
 
 ---
 
-# Data Sources
+## Data Sources
 
 Data imported from:
 
@@ -60,30 +60,45 @@ Data imported from:
 
 ---
 
-# Tools & Technologies Used
+## Business Terms Used  
+
+- DTI (Debt-to-Income Ratio)
+- Month-to-Date(MTD)
+- Month-on-Month(MoM)
+- Performing Loan 
+- Non-Performing Loan (NPL)
+- Recovery Rate
+- Default Rate
+- Outstanding Loan Amount
+- Interest Rate
+- Loan Status
+
+---
+
+## Tools & Technologies Used
 
 - Power BI Desktop
 - Power Query
 - DAX (Data Analysis Expressions)
-- MS Excel / CSV
+- MS Excel
 - SQL (PostgreSQL)
 
 ---
 
-# Dashboard Views
+## Dashboard Views
 
 ## 1. Summary View
-![Summary View](screenshots/Dashboard_Summary.png)
+![Summary View](Screenshots/Dashboard_Summary.png)
 
 ## 2. Overview View
-![Overview View](screenshots/Dashboard_Overview.png)
+![Overview View](Screenshots/Dashboard_Overview.png)
 
 ## 3. Details View
-![Details View](screenshots/Dashboard_Details.png)
+![Details View](Screenshots/Dashboard_Details.png)
 
 ---
 
-# Key Learnings from This Project
+## Key Learnings from This Project
 
 - Creating interactive Power BI dashboards
 - Designing KPI cards
@@ -92,11 +107,11 @@ Data imported from:
 - Data transformation using Power Query
 - Developing dynamic slicers and filters
 - Creating financial and risk-based visualizations
-- Dashboard storytelling and business reporting
+- Dashboard storytelling
 
 ---
 
-# Skills Learned
+## Skills Learned
 
 - Data Visualization
 - Financial Analytics
@@ -110,15 +125,13 @@ Data imported from:
 
 ---
 
-# Project Outcome
+## Project Outcome
 
-The **Credit Risk Analytics Dashboard** provides financial institutions with a centralized platform to monitor loan portfolio performance, identify risky loan segments, and track recovery efficiency.
-
-The dashboard enables faster and more accurate decision-making by transforming complex loan data into actionable business insights through interactive visualizations and KPI tracking.
+The **Credit Risk Analytics Dashboard** helps to monitor loan portfolio performance, identify risky loan segments, and track recovery efficiency. The dashboard enables faster and more accurate decision-making by transforming complex loan data into actionable business insights through interactive visualizations and KPI tracking.
 
 ---
 
-# Author
+## Author
 
-**Your Name**
-Aspiring Data Analyst | Power BI Enthusiast | SQL & Python Learner
+**Sunali Sadotra**<br>
+Aspiring Data Analyst | Power BI Developer | SQL & Python Enthusiast
