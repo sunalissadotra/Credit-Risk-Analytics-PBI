@@ -73,13 +73,13 @@ Data imported from:
 # Dashboard Views
 
 ## 1. Summary View
-
+![Summary View](screenshots/Dashboard_Summary.png)
 
 ## 2. Overview View
-
+![Overview View](screenshots/Dashboard_Overview.png)
 
 ## 3. Details View
-
+![Details View](screenshots/Dashboard_Details.png)
 
 ---
 
